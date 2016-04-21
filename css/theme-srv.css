@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /*!
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
@@ -4030,7 +4030,7 @@ a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #295376; }
-
+  
 .alert {
   padding: 15px;
   margin-bottom: 23px;
